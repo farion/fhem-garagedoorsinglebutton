@@ -1,2 +1,2 @@
 DEL ./FHEM/98_GarageDoorSingleButton.pm
-UPD 2018-01-18_17:07:00 21422 98_GarageDoorSingleButton.pm
+UPD 2020-01-18_17:07:34 21422 FHEM/98_GarageDoorSingleButton.pm
